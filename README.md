@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi, I'm Trung Huynh
 
+🟥 Software Engineering student at the University of Nebraska-Lincoln 🌽
+
+⚛️ I'm trying to learn more about React
+
+![Trung's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrungH012006&show_icons=true&theme=synthwave)
 <!--
 **TrungH012006/TrungH012006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
