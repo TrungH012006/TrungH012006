@@ -1,8 +1,8 @@
-# 💫 About Me:
+# Hi, I'm Trung Huynh
 🟥 Software Engineering student at the University of Nebraska-Lincoln 🌽<br>⚛️ I'm trying to learn more about React
 
 
-## 🌐 Socials:
+## 📬 Reach me here:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/trung-huynh01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trunghuynh.01.2006@gmail.com) 
 
 # 💻 Tech Stack:
