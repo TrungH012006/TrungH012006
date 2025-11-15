@@ -1,5 +1,5 @@
 # Hi, I'm Trung Huynh
-🟥 Software Engineering student at the University of Nebraska-Lincoln 🌽<br>⚛️ I'm trying to learn more about React
+🟥 Software Engineering student at the University of Nebraska-Lincoln 🌽<br>⚛️ I'm learning TypeScript and React
 
 
 ## 📬 Reach me here:
