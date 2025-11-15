@@ -1,7 +1,8 @@
-# Hi, I'm Trung Huynh
-🟥 Software Engineering student at the University of Nebraska-Lincoln 🌽<br>⚛️ I'm learning about React and TypeScript
+# 💫 About Me:
+🟥 Software Engineering student at the University of Nebraska-Lincoln 🌽<br>⚛️ I'm trying to learn more about React
 
-## 📬 Reach me here:
+
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/trung-huynh01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trunghuynh.01.2006@gmail.com) 
 
 # 💻 Tech Stack:
@@ -10,6 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=TrungH012006&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=TrungH012006&theme=ayu-mirage&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TrungH012006&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TrungH012006&theme=ayu-mirage&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TrungH012006&limit=5&theme=ayu-mirage&combine_all_yearly_contributions=true)
